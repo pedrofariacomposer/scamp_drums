@@ -1,0 +1,17 @@
+Drum Mapping:
+
+36 - Bass Drum
+37 - Snare Rim
+38, 39, 40 - Snare
+41,43 - Floor Tom
+42 - Closed Hi Hat
+44 -  Hi Hat Foot
+45,47 - Low Tom
+48,50 - High Tom
+46 - Open Hi Hat
+49 - Crash
+51 - Ride Body
+52 - China Cymbal
+53 - Ride Bell
+55 - Splash Cymbal
+58 - Crash + Hold
